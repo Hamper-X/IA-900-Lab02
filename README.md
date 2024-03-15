@@ -44,3 +44,25 @@
 
 5. **Criação de um endpoint:**
    - Crie um modelo e importe-o para a aba "Endpoint".
+
+6. Modelo de Json:
+{
+  "input_data": {
+    "columns": [
+      "day",
+      "mnth",
+      "year",
+      "season",
+      "holiday",
+      "weekday",
+      "workingday",
+      "weathersit",
+      "temp",
+      "atemp",
+      "hum",
+      "windspeed"
+    ],
+    "index": [],
+    "data": []
+  }
+}
